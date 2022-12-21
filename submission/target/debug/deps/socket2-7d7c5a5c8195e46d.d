@@ -1,0 +1,11 @@
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/socket2-7d7c5a5c8195e46d.rmeta: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/libsocket2-7d7c5a5c8195e46d.rlib: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/socket2-7d7c5a5c8195e46d.d: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs:

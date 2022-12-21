@@ -1,0 +1,11 @@
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/sha1-58a649723f564154.rmeta: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/consts.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/soft.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/x86.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/libsha1-58a649723f564154.rlib: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/consts.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/soft.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/x86.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/sha1-58a649723f564154.d: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/consts.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/soft.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/x86.rs
+
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/lib.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/consts.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/soft.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.8/src/compress/x86.rs:

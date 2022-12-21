@@ -1,0 +1,12 @@
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/cookie-a91573c1318dd218.rmeta: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/builder.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/parse.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/jar.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/delta.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/draft.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/libcookie-a91573c1318dd218.rlib: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/builder.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/parse.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/jar.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/delta.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/draft.rs
+
+/Users/pablomorales/pixel-planet-app/submission/target/debug/deps/cookie-a91573c1318dd218.d: /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/lib.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/builder.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/parse.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/jar.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/delta.rs /Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/draft.rs
+
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/lib.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/builder.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/parse.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/jar.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/delta.rs:
+/Users/pablomorales/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.4/src/draft.rs:
