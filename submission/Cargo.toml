@@ -1,5 +1,5 @@
 [package]
-name = "submission"
+name = "Pixel-Planet-Portal"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,3 +8,5 @@ edition = "2021"
 
 [dependencies]
 actix-web = "3"
+tera = "1.5.0"
+serde = "1.0" 
